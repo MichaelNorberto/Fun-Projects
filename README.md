@@ -1,4 +1,5 @@
 # Fun-Projects
+A repository for random ideas 
 
 ## Project Ideas
 
@@ -7,7 +8,7 @@
 - Integrate with Google Maps
   - Display Marker on Location
   
-### Rock Paper Scissors With AI
+### Python Rock Paper Scissors With AI
 - Classic Rock Paper Scissors
 - Store user input in CSV file
 - AI Training on csv data
